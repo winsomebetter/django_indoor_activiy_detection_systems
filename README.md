@@ -1,2 +1,2 @@
 # django_indoor_activiy_detection_systems
-这是一个室内活动侦测系统的web程序，它主要是用了django的架构，运行在Ubuntu。
+这是一个室内活动侦测系统的web程序
